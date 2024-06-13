@@ -1,4 +1,4 @@
-# MovieFLix GPT
+# MovieFlix GPT
 
 - Create React App
 - Configured Tailwind CSS
