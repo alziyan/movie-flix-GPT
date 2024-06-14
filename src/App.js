@@ -1,11 +1,9 @@
-import "./App.css";
+import Body from "./components/Body";
 
 function App() {
   return (
-    <div className="font-bold text-3xl">
-      <h1>Alziyan Ansari</h1>
-      <p>Member Of Parliament</p>
-      <p>Prime Minister of India</p>
+    <div className="">
+      <Body />
     </div>
   );
 }
