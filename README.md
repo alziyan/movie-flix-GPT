@@ -14,6 +14,15 @@
 - Create SignUp user account
 - implement Sign In user API
 - Created Redux Store with UserSlice
+- BugFix: User can not access browse page without login
+- Added Hardcoded values to constants.js
+- Register for TMDB API
+- Get data from TMDB API
+- Custom Hooks for Now Playing Videos
+- Create Movie Slice
+- Update store with movie Data
+- Fetch Data for trailer Video and Uodate the store with that data
+- Embedded the youtube Video
 
 # Features
 
