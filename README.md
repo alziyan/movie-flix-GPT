@@ -26,6 +26,9 @@
 - Built Secondary Container
 - Movie List (Now playing, Top Rated, Upcoming, Popular)
 - Custom Hooks (useNowPlaying, useTopRated, useUpcomig, usePopular)
+- GPT Search Page
+- GPT Search Bar
+- Integrate GPT API
 
 # Features
 
