@@ -23,6 +23,9 @@
 - Update store with movie Data
 - Fetch Data for trailer Video and Uodate the store with that data
 - Embedded the youtube Video
+- Built Secondary Container
+- Movie List (Now playing, Top Rated, Upcoming, Popular)
+- Custom Hooks (useNowPlaying, useTopRated, useUpcomig, usePopular)
 
 # Features
 
