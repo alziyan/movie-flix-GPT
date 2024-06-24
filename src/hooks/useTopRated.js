@@ -14,7 +14,7 @@ const useTopRated = () => {
       API_OPTIONS
     );
     const json = await data.json();
-    console.log("top Rated", json);
+    // console.log("top Rated", json);
     dispatch(addTopRated(json.results));
   };
 
