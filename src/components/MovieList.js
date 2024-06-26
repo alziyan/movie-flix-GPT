@@ -9,9 +9,10 @@ const MovieList = ({ title, movies }) => {
       <h1 className="px-4 m-2 text-2xl">{title}</h1>
       <div className="flex  scrollbar-hide overflow-x-scroll whitespace-nowrap space-x-4 ">
         <div className="flex ">
-          {movies.map((movie) => (
-            <MovieCard key={movie.id} poster_path={movie.poster_path} />
-          ))}
+          {movies &&
+            movies.map((movie) => (
+              <MovieCard key={movie.id} poster_path={movie.poster_path} />
+            ))}
         </div>
       </div>
     </div>
